@@ -1,6 +1,19 @@
-# Default ignored files
+# Eclipse / IDE
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
+
+# HTTP Client requests
 /httpRequests/
+
+# Persistence config local
 /persistence.xml
+
+# Build / target
+/target/
+/bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
